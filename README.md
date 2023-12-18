@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/__xb4cFP)
+# Rice_cooker Test (C#)
+
+
+
+## Prérequis
+
+- [Installations de .NET SDK 6.0](https://dotnet.microsoft.com/download/dotnet/6.0)
+
+## How to execute the test 
+
+  ```bash
+dotnet restore
+
+
