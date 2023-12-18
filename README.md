@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/__xb4cFP)
+# Test unit for Rice_cooker(4 languages)
+
+This simple console application simulates a basic rice cooker. Users can add rice, water, cook, and serve delicious rice.
+
+
+## Languages
+
+- [C#](https://github.com/fetraandri/cc-d4-rice-cooker-ci-fetraandri/tree/feature/c%23)
+- [Go](https://github.com/fetraandri/cc-d4-rice-cooker-ci-fetraandri/tree/feature/go)
+- [Ruby](https://github.com/fetraandri/cc-d4-rice-cooker-ci-fetraandri/tree/feature/ruby)
+- [C++](https://github.com/fetraandri/cc-d4-rice-cooker-ci-fetraandri/tree/feature/ruby)
+
+
+## ---------Let'go to eatch Branch------------
